@@ -1,8 +1,11 @@
 # David Alejandro González Martínez
 
-- Experienced computer programmer with 5+ years of error-free code delivery in Agile environments, meeting tight deadlines collaboratively or autonomously.
+# About me!
 
-- Analytical problem-solver dedicated to achieving demanding development objectives on schedule with impeccable code.
+![Static Badge](https://img.shields.io/badge/Mexico%20City-Mexico-lime?style=for-the-badge&logo=googlemaps)
+![Static Badge](https://img.shields.io/badge/Mechatronics%20Engineer-2024-red?style=for-the-badge&logo=googlescholar)
+[![Static Badge](https://img.shields.io/badge/Reach%20Me!-blue?style=for-the-badge&logo=gmail)](david.agzmz@gmail.com)
+
 
 # Skills
 
@@ -33,5 +36,11 @@
 
 # Hobbies
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/4JKvoYMvHPBUNQfDoMod2C?si=1313f5cb11cc456c)
+> - Listen to music
+> - Watch anime
+> - Play Video Games
 
+# Music
+> What I listen to while working!
+>
+> [![Stack Overflow Badge](https://img.shields.io/badge/Spotify-black?logo=spotify&style=for-the-badge)](https://open.spotify.com/playlist/4JKvoYMvHPBUNQfDoMod2C?si=f4d86fb4e47c44a9)
