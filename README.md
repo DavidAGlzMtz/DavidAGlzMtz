@@ -1,8 +1,8 @@
 # David Alejandro González Martínez
 
-### Experienced computer programmer with 5+ years of error-free code delivery in Agile environments, meeting tight deadlines collaboratively or autonomously.
+- Experienced computer programmer with 5+ years of error-free code delivery in Agile environments, meeting tight deadlines collaboratively or autonomously.
 
-### Analytical problem-solver dedicated to achieving demanding development objectives on schedule with impeccable code.
+- Analytical problem-solver dedicated to achieving demanding development objectives on schedule with impeccable code.
 
 # Skills
 
