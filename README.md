@@ -4,7 +4,9 @@
 
 ![Static Badge](https://img.shields.io/badge/Mexico%20City-Mexico-lime?style=for-the-badge&logo=googlemaps)
 ![Static Badge](https://img.shields.io/badge/Mechatronics%20Engineer-2024-red?style=for-the-badge&logo=googlescholar)
-[![Static Badge](https://img.shields.io/badge/Reach%20Me!-blue?style=for-the-badge&logo=gmail)](href="mailto:david.agzmz@gmail.com")
+
+My e-mail:
+david.agzmz@gmail.com
 
 
 
