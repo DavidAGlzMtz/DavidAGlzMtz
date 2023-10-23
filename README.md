@@ -25,8 +25,13 @@
 ![Static Badge](https://img.shields.io/badge/2048%20Game-Mobile-red?style=for-the-badge&logo=Unity)
 
 
-# Language
+# Languages
 
 ![Static Badge](https://img.shields.io/badge/Spanish-Native-Black?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/English-Professional-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Japanese-Basic-red?style=for-the-badge)
+
+# Hobbies
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/4JKvoYMvHPBUNQfDoMod2C?si=1313f5cb11cc456c)
+
